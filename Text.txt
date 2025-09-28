@@ -1,0 +1,27 @@
+#Hero Section:
+heading: Explore. Book. Travel
+p: Simple and secure ticket booking for every journey
+
+#Why Choose Us
+heading: Why Choose Us
+p: Experience seamless ticket booking with these exclusive benefits
+
+Card 1: 
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="var(--accent-color)" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"></path></svg>
+h3: Easy Booking
+p: Intuitive interface designed for effortless ticket purchases in just 3 taps
+
+Card 2:
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="var(--accent-color)" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm4.59-12.42L10 14.17l-2.59-2.58L6 13l4 4 8-8z"></path></svg>
+h3: Secure Payments
+p: Bank-grade encryption with multiple payment options including digital wallets
+
+Card 3:
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="var(--accent-color)" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"></path></svg>
+h3: Instant Confirmation
+p: Real-time tickets delivered via email & SMS with QR codes for quick scanning
+
+Card 4: 
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="var(--accent-color)" viewBox="0 0 24 24"><path d="M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM17 19H7V5h10v14z"></path></svg>
+h3: Multi-Platform Access
+p: Continue booking on any device with our responsive web and mobile apps
